@@ -1,3 +1,17 @@
+@media screen and (min-width: 769px) {
+    .steps{
+        /* min-width: 100vw; */
+    }
+
+    .steps .container{
+        max-width: 100%;
+    }
+
+    .container{
+        max-width: 100%;
+    }
+}
+
 @media screen and (max-width: 768px) {
     
     html, body{
@@ -63,3 +77,4 @@
 
     
 }
+
